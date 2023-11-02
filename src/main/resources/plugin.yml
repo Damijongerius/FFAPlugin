@@ -1,0 +1,4 @@
+name: FFAPlugin
+version: '${project.version}'
+main: com.dami.ffaplugin.FFAPlugin
+api-version: '1.17'
